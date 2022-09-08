@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Title>String.Extensions</Title>
+    <Company></Company>
+    <Authors>Michał Posieczek</Authors>
+    <Description>Library providing string manipulation features that make life easier.</Description>
+  </PropertyGroup>
+
+</Project>
