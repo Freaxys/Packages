@@ -9,6 +9,7 @@
     <Authors>Michał Posieczek</Authors>
     <Description>Library providing string manipulation features that make life easier.</Description>
     <PackageTags>string; extensions; conversions;</PackageTags>
+    <RepositoryUrl>https://github.com/m-posieczek/Packages</RepositoryUrl>
   </PropertyGroup>
 
 </Project>
