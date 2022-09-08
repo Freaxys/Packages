@@ -8,6 +8,7 @@
     <Company></Company>
     <Authors>Michał Posieczek</Authors>
     <Description>Library providing string manipulation features that make life easier.</Description>
+    <PackageTags>string; extensions; conversions;</PackageTags>
   </PropertyGroup>
 
 </Project>
