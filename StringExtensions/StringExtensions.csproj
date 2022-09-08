@@ -7,9 +7,12 @@
     <Title>String.Extensions</Title>
     <Company></Company>
     <Authors>Michał Posieczek</Authors>
-    <Description>Library providing string manipulation features that make life easier.</Description>
+    <Description>Library providing string manipulation features that make life easier.
+Created for .NET 6.</Description>
     <PackageTags>string; extensions; conversions;</PackageTags>
     <RepositoryUrl>https://github.com/m-posieczek/Packages</RepositoryUrl>
+    <PackageId>Simple.String.Extensions</PackageId>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
 </Project>
