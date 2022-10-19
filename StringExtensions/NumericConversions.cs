@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace StringExtensions
 {
-    public static class Numerics
+    public static class NumericConversions
     {
         public static int? ToInt(this string s)
         {
@@ -17,7 +17,8 @@ namespace StringExtensions
             } catch(Exception)
             {
                 throw new Exception(
-                    "ToInt Exception: Failed to convert string to int. " + "Check the string value for possible errors.");
+                    "ToInt Exception: Failed to convert string to int. " +
+                    "Check the string value for possible errors.");
             }
         }
 
