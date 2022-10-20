@@ -13,6 +13,7 @@ Created for .NET 6.</Description>
     <RepositoryUrl>https://github.com/m-posieczek/Packages</RepositoryUrl>
     <PackageId>Simple.String.Extensions</PackageId>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
 </Project>
